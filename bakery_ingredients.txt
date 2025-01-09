@@ -3,3 +3,5 @@ harina
 5 huevos
 crema de vainilla
 fresas
+avellanas
+crema de leche
