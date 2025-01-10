@@ -6,3 +6,5 @@ fresas
 avellanas
 crema de leche
 leche de almendras
+arroz
+azucar
